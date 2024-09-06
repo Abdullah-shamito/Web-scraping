@@ -1,0 +1,26 @@
+{
+    "eurusd": {
+        "data": [
+            {
+                "headline": "EUR/USD struggles to recover above 1.0900 as markets remain cautious",
+                "article_content": "EUR/USD stays on the back foot and trades below 1.0900 following Thursday's sharp decline. Dovish comments from European Central Bank officials and the risk-averse market atmosphere make it difficult for the pair to stage a rebound on Friday."
+            }
+        ],
+        "chart_url": null,
+        "article_text": "The US Dollar (USD) regained momentum on Thursday, lifting the USD Index (DXY) back above the 104.00 barrier, helped by the decent bounce in US yields across various maturity periods.Against that, EUR/USD set aside two consecutive sessions of gains and challenged the 1.0900 region, also following the dovish hold by the ECB at its meeting on Thursday and a marginal uptick in German 10-year bund yields.Back to the ECB event, during her press conference, President Christine Lagarde argued that she expects the recovery to be supported by consumption, highlighting the resilience of the labour market. She also noted that domestic inflation remains high and that wages are rising at an elevated rate. Additionally, she projected that the Harmonized Index of Consumer Prices (HICP) would decline to the bank’s target in the second half of 2025. Furthermore, Lagarde also identified wages, profits, and geopolitical factors as potential upside risks to inflation.Conversely, there is ongoing debate among investors about whether the Fed will implement one, two, or three rate cuts this year, despite the Fed's current projection of a single cut, likely in December.The CME Group's FedWatch Tool indicates a nearly 98% probability of lower rates at the September 18 meeting, with another rate cut fully anticipated in December.Supporting this outlook, Austan Goolsbee, President of the Chicago Federal Reserve Bank, expressed that the US economy seems to be reverting to a 2% inflation target following an earlier increase this year. His observations indicate growing confidence that the opportunity to reduce interest rates may be approaching.Meanwhile, the economic recovery prospects in the Eurozone and signs of cooling in key US economic indicators may mitigate the ongoing disparity in monetary policy between the Fed and the ECB, occasionally supporting the EUR/USD pair in the near future. This perspective has gained traction pari passu rising expectations of Fed interest rate cuts.Looking ahead, upcoming Fedspeak should dictate the pair’s price action as the trading week draws to a close.",
+        "latest_news_links": [
+            {
+                "title": "EUR: Trades under 1.09 after the ECB keeping rates on hold – DBS",
+                "link": "https://www.fxstreet.com/news/eur-trades-under-109-after-the-ecb-keeping-rates-on-hold-dbs-202407191549"
+            },
+            {
+                "title": "EUR/USD: Broader bullish picture remains intact – Scotiabank",
+                "link": "https://www.fxstreet.com/news/eur-usd-broader-bullish-picture-remains-intact-scotiabank-202407191424"
+            },
+            {
+                "title": "ECB review: Lagarde says pretty much what was expected – Commerzbank",
+                "link": "https://www.fxstreet.com/news/ecb-review-lagarde-says-pretty-much-what-was-expected-commerzbank-202407191046"
+            }
+        ]
+    }
+}
